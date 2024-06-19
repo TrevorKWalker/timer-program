@@ -1,1 +1,1 @@
-# timer-program
+This is a program that I used to count basketball shots during an challenge I did with my friend where he shot 1000 threes in 24hrs. It is a python program that uses tkinter to start a timer and then lap on every shot and save the information to a .txt file at the end.
